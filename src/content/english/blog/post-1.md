@@ -1,6 +1,6 @@
 ---
 title: Mukles
-meta_title: ''
+meta_title: Meta title
 description: ''
 date: 2022-04-04T05:00:00.000Z
 image: /images/image-placeholder.png
