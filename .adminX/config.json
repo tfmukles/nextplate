@@ -1,7 +1,7 @@
 {
   "media": {
-    "root": ".vscode",
-    "public": ".vscode"
+    "root": "public/images",
+    "public": "public"
   },
   "content": {
     "root": "src/content"
