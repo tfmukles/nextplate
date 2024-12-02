@@ -13,7 +13,7 @@
       "targetPath": "src/content/english/blog",
       "groupName": "Blogs",
       "include": "*.md, *.mdx",
-      "exclude": "!index.md"
+      "exclude": "*index.md"
     }
   ],
   "showCommitModal": false
