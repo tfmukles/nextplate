@@ -1,1 +1,12 @@
-{"content_root":{"label":"src/content/english","value":"src/content/english"},"media_root":{"label":"public/images","value":"public/images"},"themeConfigurations":[],"arrangement":[{"type":"file","targetPath":"src/content/english/authors/john-doe.md","groupName":"kjasfdk"},{"type":"folder","targetPath":"src/content/english/blog","groupName":"blog-index","include":"*index.md","exclude":""},{"type":"folder","targetPath":"src/content/english/blog","groupName":"Blogs","include":"*.md","exclude":"*_index.md"}]}
+{
+  "media": {
+    "root": "public/images",
+    "public": "public/"
+  },
+  "content": {
+    "root": "src/content"
+  },
+  "themeConfig": [],
+  "arrangement": [],
+  "showCommitModal": false
+}
