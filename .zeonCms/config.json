@@ -7,6 +7,14 @@
     "root": "src/content"
   },
   "themeConfig": [],
-  "arrangement": [],
+  "arrangement": [
+    {
+      "type": "folder",
+      "targetPath": "src/content/english/blog",
+      "groupName": "Blogs",
+      "include": "*.md, *.mdx",
+      "exclude": "!index.md"
+    }
+  ],
   "showCommitModal": false
 }
