@@ -1,12 +1,1 @@
-{
-  "media": {
-    "root": "public/images",
-    "public": "public/"
-  },
-  "content": {
-    "root": "src/content/english"
-  },
-  "themeConfig": [],
-  "arrangement": [],
-  "showCommitModal": true
-}
+{"content_root":{"label":"src/content/english","value":"src/content/english"},"media_root":{"label":"public/images","value":"public/images"},"themeConfigurations":[],"arrangement":[{"type":"folder","targetPath":"src/content/english/blog","groupName":"blog-index","include":"*index.md","exclude":""}]}
