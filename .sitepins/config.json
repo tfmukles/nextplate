@@ -6,7 +6,9 @@
   "content": {
     "root": "src/content"
   },
-  "themeConfig": [],
+  "themeConfig": [
+    "netlify.toml"
+  ],
   "arrangement": [],
   "showCommitModal": true
 }
