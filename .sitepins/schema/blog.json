@@ -1,0 +1,65 @@
+{
+  "file": "src/content/blog/post-2.md",
+  "name": "blog",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "label": "Title",
+      "name": "title",
+      "type": "string",
+      "value": "",
+      "description": "It's post title"
+    },
+    {
+      "label": "Meta Title",
+      "name": "meta_title",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Description",
+      "name": "description",
+      "type": "string",
+      "value": "",
+      "description": "it's descriptions for post"
+    },
+    {
+      "label": "Date",
+      "name": "date",
+      "type": "Date",
+      "value": "",
+      "description": "it's date when post publish"
+    },
+    {
+      "label": "Image",
+      "name": "image",
+      "type": "media",
+      "value": "",
+      "description": "Post thumnail image"
+    },
+    {
+      "label": "Categories",
+      "name": "categories",
+      "type": "Array"
+    },
+    {
+      "label": "Author",
+      "name": "author",
+      "type": "string",
+      "value": "",
+      "description": "Who writes the post."
+    },
+    {
+      "label": "Tags",
+      "name": "tags",
+      "type": "Array"
+    },
+    {
+      "label": "Draft",
+      "name": "draft",
+      "type": "boolean",
+      "value": ""
+    }
+  ]
+}
