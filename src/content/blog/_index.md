@@ -1,5 +1,5 @@
 ---
-title: Blog Posts
+title: This is title.
 meta_title: This is meta title.
 description: this is meta description
 image: /images/avatar.png
