@@ -9,6 +9,7 @@
     "dev": "yarn generate-json && next dev --turbopack",
     "build": "yarn generate-json && next build",
     "preview": "next start",
+    "start": "next build && next start",
     "postbuild": "next-sitemap",
     "lint": "next lint",
     "format": "prettier -w ./src",
